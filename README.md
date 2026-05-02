@@ -28,4 +28,4 @@ This project is a mini-application built with Python's Dash framework to visuali
 
 1.  **Clone the repository:**
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/dXRtinXb/Dash
